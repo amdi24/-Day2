@@ -1,0 +1,4 @@
+Astare: 5555.0
+Almaze: 4444.0
+Abale: 999.0
+Alemu: 888.0

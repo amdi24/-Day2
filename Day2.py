@@ -9,4 +9,6 @@ def split_bill(total_bill, number_of_people, tip_rate=0.10):
     return per_person_share
 print("individual share")
 for name in friends:
-    print(f"resive paymant person {name},individual paymant is {split_bill(total_bill, number_of_people)}") # hear for each person we are calling the function and passing the total_bill and number_of_people as arguments to calculate the individual share of the bill including the tip.
+    print(f"resive paymant person {name},individual paymant is {split_bill(total_bill, number_of_people)}") 
+    # hear for each person we are calling the function and 
+    #passing the total_bill and number_of_people as arguments to calculate the individual share of the bill including the tip.
